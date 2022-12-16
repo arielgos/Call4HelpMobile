@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831620338327",
+    "project_id": "call4help-a06cf",
+    "storage_bucket": "call4help-a06cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831620338327:android:8d7cbfb80e3a78f9858fd2",
+        "android_client_info": {
+          "package_name": "com.agos.call4help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831620338327-uqsfsfuggr1jpnahne4v0apqavlneoqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCET5FS_YoKRkRUf3ZeE7URfJvO3hu6mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831620338327-uqsfsfuggr1jpnahne4v0apqavlneoqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alerta Santa Cruz</string>
+    <string name="hackathon">Hackathon 2023</string>
+    <string name="app_message">Proyecto demostrativo para el hackathon 2023 organizado por la UAGRM, Gobernación de Santa Cruz y GDG Santa Cruz</string>
+    <string name="access">Ingresar</string>
+    <string name="web_client_id" translatable="false">831620338327-uqsfsfuggr1jpnahne4v0apqavlneoqq.apps.googleusercontent.com</string>
+    <string name="notification_channel_id">call4Help</string>
+    <string name="location_message">La aplicación esta haciendo uso del GPS</string>
+    <string name="alert">Alerta</string>
+    <string name="add_alert">Nueva Alerta</string>
+    <string name="edit_alert">Editando Alerta</string>
+    <string name="description">Descripción</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="tags">Etiquetas</string>
+    <string name="objects">Objetos</string>
+    <string name="registered_alerts">%d Alertas registradas</string>
+    <string name="pending">Pendiente</string>
+    <string name="no_alerts">No existen alertas registradas</string>
+    <string name="alert_detail">Revisando Alerta</string>
+</resources>

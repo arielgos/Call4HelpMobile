@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Call4Help" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorControlHighlight">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primaryDark</item>
+        <item name="android:fontFamily">@font/os_regular</item>
+    </style>
+
+    <style name="Theme.Call4Help.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Call4Help.Button" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/btn_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/os_regular</item>
+    </style>
+
+    <style name="Theme.Call4Help.Button.Cancel" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/btn_secondary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/os_regular</item>
+    </style>
+
+    <style name="Theme.Call4Help.Button.White" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/btn_white</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:fontFamily">@font/os_regular</item>
+    </style>
+
+</resources>
